@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Habitat App</string>
+    <string name="button_habits_menu_content_description">Button witch gives access to list of user\'s habits.</string>
 </resources>
